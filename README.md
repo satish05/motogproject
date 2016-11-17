@@ -1,0 +1,2 @@
+# motogproject
+basic learning project
